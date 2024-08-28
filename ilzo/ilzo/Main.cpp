@@ -6,3 +6,4 @@ int CMain::AddNum(int a, int b)
     b += 20;
     return a + b;
 }
+
