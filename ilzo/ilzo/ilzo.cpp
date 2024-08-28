@@ -35,6 +35,8 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
     MyRegisterClass(hInstance);
 
     CMain Main;
+    Main.a = 30;
+    Main.b = 60;
     Main.AddNum(1, 3);
 
     // 애플리케이션 초기화를 수행합니다:
