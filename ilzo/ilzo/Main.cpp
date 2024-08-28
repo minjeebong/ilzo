@@ -2,5 +2,6 @@
 
 int CMain::AddNum(int a, int b)
 {
-    return 0;
+    
+    return a+b;
 }
