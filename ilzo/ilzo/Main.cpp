@@ -2,7 +2,7 @@
 
 int CMain::AddNum(int a, int b)
 {
-    a = 30;
-    b = 60;
+    a = 50;
+    b = 70;
     return a+b;
 }
