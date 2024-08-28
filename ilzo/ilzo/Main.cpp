@@ -2,8 +2,8 @@
 
 int CMain::AddNum(int a, int b)
 {
-    a += 10;
-    b += 20;
-    return a + b;
+    a = 30;
+    b = 60;
+    return a+b;
 }
 

@@ -1,0 +1,12 @@
+diff a/ilzo/ilzo/Main.cpp b/ilzo/ilzo/Main.cpp	(rejected hunks)
+@@ -2,8 +2,8 @@
+ 
+ int CMain::AddNum(int a, int b)
+ {
+-    a += 10;
+-    b += 20;
++    a += 100;
++    b += 100;
+     return a + b;
+ }
+ 
